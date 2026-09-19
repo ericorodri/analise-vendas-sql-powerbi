@@ -1,15 +1,15 @@
 # analise-vendas-sql-powerbi
-## 📊 Relatório Geral de Insights (Fase SQL)
+## Relatório Geral de Insights (Fase SQL)
 
 Utilizando a base completa de dados de vendas no SQLite, executamos consultas analíticas avançadas para entender o panorama geral do negócio. Abaixo estão os indicadores chave de performance (KPIs) identificados:
 
-### 📈 Indicadores Gerais
+### Indicadores Gerais
 *   **Faturamento Total:** R$ 1.585.890,00
 *   **Total de Produtos Vendidos:** 2.302 unidades
 
 ---
 
-### 📦 Top 5 Produtos Mais Vendidos (Por Faturamento)
+### Top 5 Produtos Mais Vendidos (Por Faturamento)
 
 | Posição | Produto | Faturamento Total |
 | :---: | :--- | :--- |
@@ -21,7 +21,7 @@ Utilizando a base completa de dados de vendas no SQLite, executamos consultas an
 
 ---
 
-### 👥 Ranking de Desempenho dos Vendedores
+### Ranking de Desempenho dos Vendedores
 
 | Posição | Vendedor | Total Vendido |
 | :---: | :--- | :--- |
@@ -34,7 +34,7 @@ Utilizando a base completa de dados de vendas no SQLite, executamos consultas an
 
 ---
 
-### 📅 Evolução Mensal do Faturamento
+### Evolução Mensal do Faturamento
 
 | Mês/Ano | Faturamento Mensal |
 | :---: | :--- |
