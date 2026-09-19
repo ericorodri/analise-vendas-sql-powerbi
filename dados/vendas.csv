@@ -1,0 +1,501 @@
+Data	Produto	Categoria	Regiao	Estado	Vendedor	Quantidade	Preco_Unitario	Valor_Total
+2025-09-08	Mouse	Informática	Sul	RS	Bruno	5	80	400
+2026-03-09	Teclado	Informática	Sul	RS	Ana	2	150	300
+2026-06-02	Notebook	Informática	Sul	SC	Eduardo	4	3500	14000
+2025-08-14	Notebook	Informática	Norte	PA	Daniela	7	3500	24500
+2025-12-15	Headset	Acessórios	Sul	SC	Carlos	7	250	1750
+2025-04-05	Teclado	Informática	Sudeste	RJ	Daniela	2	150	300
+2025-02-14	Mouse	Informática	Nordeste	PE	Fernanda	5	80	400
+2025-03-22	SSD	Informática	Norte	PA	Eduardo	7	400	2800
+2025-03-13	Headset	Acessórios	Norte	AM	Ana	4	250	1000
+2025-04-14	Monitor	Informática	Nordeste	BA	Daniela	4	900	3600
+2025-06-16	Headset	Acessórios	Centro-Oeste	DF	Carlos	6	250	1500
+2025-03-15	Cadeira Gamer	Móveis	Sudeste	MG	Eduardo	5	1200	6000
+2025-06-17	Teclado	Informática	Norte	RO	Daniela	4	150	600
+2025-11-29	Webcam	Acessórios	Nordeste	CE	Ana	4	220	880
+2025-10-02	Monitor	Informática	Sul	PR	Ana	7	900	6300
+2025-08-06	Monitor	Informática	Norte	RO	Fernanda	6	900	5400
+2025-05-27	SSD	Informática	Centro-Oeste	DF	Carlos	8	400	3200
+2026-03-15	Teclado	Informática	Sudeste	MG	Eduardo	5	150	750
+2026-06-06	Webcam	Acessórios	Nordeste	BA	Daniela	3	220	660
+2025-06-13	Mouse	Informática	Sul	SC	Fernanda	3	80	240
+2026-01-26	Webcam	Acessórios	Norte	PA	Eduardo	7	220	1540
+2025-04-28	SSD	Informática	Norte	AM	Fernanda	1	400	400
+2026-03-22	Headset	Acessórios	Nordeste	BA	Bruno	5	250	1250
+2026-05-28	SSD	Informática	Sul	RS	Bruno	5	400	2000
+2025-06-06	Mouse	Informática	Nordeste	CE	Carlos	4	80	320
+2025-11-28	Teclado	Informática	Norte	RO	Daniela	1	150	150
+2025-09-03	Notebook	Informática	Sul	PR	Ana	5	3500	17500
+2026-05-13	Monitor	Informática	Norte	PA	Ana	2	900	1800
+2025-06-19	Teclado	Informática	Sudeste	MG	Carlos	8	150	1200
+2025-11-16	Webcam	Acessórios	Sudeste	MG	Daniela	4	220	880
+2025-05-04	Cadeira Gamer	Móveis	Centro-Oeste	DF	Bruno	8	1200	9600
+2025-08-24	Monitor	Informática	Sul	PR	Eduardo	1	900	900
+2025-08-23	Monitor	Informática	Sul	SC	Ana	1	900	900
+2025-10-13	Notebook	Informática	Nordeste	BA	Fernanda	4	3500	14000
+2026-04-30	SSD	Informática	Sudeste	MG	Bruno	3	400	1200
+2025-04-10	SSD	Informática	Centro-Oeste	GO	Fernanda	2	400	800
+2026-04-24	Webcam	Acessórios	Nordeste	PE	Fernanda	7	220	1540
+2025-12-14	Notebook	Informática	Sul	SC	Ana	7	3500	24500
+2025-05-24	Monitor	Informática	Sudeste	SP	Daniela	8	900	7200
+2025-03-19	Teclado	Informática	Nordeste	PE	Daniela	4	150	600
+2025-04-06	Mouse	Informática	Sul	RS	Bruno	1	80	80
+2025-08-07	Teclado	Informática	Centro-Oeste	MT	Daniela	8	150	1200
+2026-02-04	Notebook	Informática	Sudeste	RJ	Carlos	1	3500	3500
+2025-06-08	SSD	Informática	Nordeste	PE	Bruno	8	400	3200
+2025-11-18	Headset	Acessórios	Sudeste	SP	Ana	1	250	250
+2025-02-28	Notebook	Informática	Norte	AM	Eduardo	3	3500	10500
+2025-08-29	Mouse	Informática	Sudeste	SP	Daniela	2	80	160
+2025-03-25	Mouse	Informática	Norte	PA	Daniela	1	80	80
+2025-09-02	Cadeira Gamer	Móveis	Nordeste	BA	Carlos	6	1200	7200
+2026-04-14	Webcam	Acessórios	Sudeste	MG	Carlos	5	220	1100
+2025-03-17	Mouse	Informática	Sul	PR	Eduardo	2	80	160
+2025-12-24	Monitor	Informática	Norte	AM	Ana	3	900	2700
+2026-03-25	Monitor	Informática	Nordeste	PE	Eduardo	3	900	2700
+2025-11-03	Headset	Acessórios	Norte	RO	Fernanda	1	250	250
+2025-04-20	Mouse	Informática	Sudeste	RJ	Fernanda	2	80	160
+2025-12-18	Teclado	Informática	Nordeste	PE	Bruno	4	150	600
+2025-02-22	Headset	Acessórios	Norte	AM	Ana	5	250	1250
+2025-12-08	Webcam	Acessórios	Nordeste	BA	Bruno	1	220	220
+2026-03-14	Headset	Acessórios	Sudeste	MG	Eduardo	8	250	2000
+2025-02-06	Notebook	Informática	Sul	SC	Carlos	3	3500	10500
+2025-11-12	Teclado	Informática	Centro-Oeste	GO	Carlos	1	150	150
+2025-04-16	Notebook	Informática	Nordeste	BA	Carlos	4	3500	14000
+2025-08-31	Webcam	Acessórios	Norte	RO	Bruno	3	220	660
+2025-12-07	Teclado	Informática	Centro-Oeste	GO	Daniela	3	150	450
+2026-01-27	Monitor	Informática	Nordeste	BA	Ana	2	900	1800
+2025-12-25	SSD	Informática	Sudeste	SP	Carlos	8	400	3200
+2026-02-13	Monitor	Informática	Sudeste	SP	Carlos	4	900	3600
+2026-06-06	Headset	Acessórios	Sul	PR	Daniela	6	250	1500
+2025-07-02	Cadeira Gamer	Móveis	Sul	SC	Eduardo	5	1200	6000
+2025-12-20	Headset	Acessórios	Sul	SC	Fernanda	7	250	1750
+2026-01-30	Cadeira Gamer	Móveis	Centro-Oeste	DF	Eduardo	2	1200	2400
+2025-01-02	Monitor	Informática	Nordeste	BA	Eduardo	7	900	6300
+2025-12-05	Monitor	Informática	Nordeste	PE	Eduardo	2	900	1800
+2026-06-04	Cadeira Gamer	Móveis	Sul	RS	Carlos	5	1200	6000
+2025-05-11	Webcam	Acessórios	Nordeste	PE	Bruno	5	220	1100
+2025-11-05	Webcam	Acessórios	Centro-Oeste	DF	Daniela	3	220	660
+2026-03-17	Notebook	Informática	Nordeste	PE	Eduardo	4	3500	14000
+2025-08-07	Cadeira Gamer	Móveis	Centro-Oeste	MT	Eduardo	8	1200	9600
+2025-10-18	SSD	Informática	Sudeste	MG	Eduardo	2	400	800
+2025-08-19	Cadeira Gamer	Móveis	Sul	SC	Bruno	5	1200	6000
+2026-05-02	Teclado	Informática	Sul	SC	Eduardo	4	150	600
+2026-01-29	Mouse	Informática	Centro-Oeste	MT	Daniela	4	80	320
+2025-04-20	Webcam	Acessórios	Sudeste	SP	Daniela	1	220	220
+2025-02-21	Monitor	Informática	Sudeste	MG	Eduardo	8	900	7200
+2026-04-21	Monitor	Informática	Sul	PR	Fernanda	3	900	2700
+2026-04-02	Cadeira Gamer	Móveis	Centro-Oeste	DF	Bruno	7	1200	8400
+2025-10-11	SSD	Informática	Centro-Oeste	MT	Eduardo	4	400	1600
+2025-03-21	SSD	Informática	Sudeste	RJ	Fernanda	8	400	3200
+2025-11-24	Headset	Acessórios	Sudeste	RJ	Eduardo	6	250	1500
+2026-01-28	Mouse	Informática	Sudeste	SP	Fernanda	4	80	320
+2026-02-22	Teclado	Informática	Sudeste	SP	Carlos	7	150	1050
+2026-03-07	SSD	Informática	Centro-Oeste	GO	Daniela	4	400	1600
+2025-01-07	Notebook	Informática	Norte	AM	Carlos	8	3500	28000
+2026-05-15	Headset	Acessórios	Centro-Oeste	MT	Bruno	4	250	1000
+2026-02-03	Headset	Acessórios	Centro-Oeste	MT	Carlos	1	250	250
+2025-01-28	Webcam	Acessórios	Sudeste	RJ	Daniela	3	220	660
+2025-05-19	Notebook	Informática	Sul	RS	Daniela	7	3500	24500
+2025-12-02	Teclado	Informática	Sul	PR	Bruno	7	150	1050
+2025-10-12	SSD	Informática	Nordeste	PE	Daniela	7	400	2800
+2025-02-23	Headset	Acessórios	Sul	PR	Carlos	1	250	250
+2025-02-01	Monitor	Informática	Sul	RS	Bruno	1	900	900
+2025-09-02	Monitor	Informática	Sul	RS	Bruno	3	900	2700
+2026-04-22	SSD	Informática	Sul	RS	Fernanda	4	400	1600
+2025-06-17	Headset	Acessórios	Nordeste	BA	Carlos	2	250	500
+2026-01-20	Mouse	Informática	Norte	PA	Daniela	5	80	400
+2025-04-15	Monitor	Informática	Sul	RS	Fernanda	4	900	3600
+2025-12-22	Headset	Acessórios	Norte	PA	Eduardo	1	250	250
+2025-01-13	Webcam	Acessórios	Nordeste	BA	Daniela	6	220	1320
+2026-04-16	SSD	Informática	Sul	PR	Fernanda	6	400	2400
+2026-05-11	Teclado	Informática	Centro-Oeste	GO	Daniela	5	150	750
+2025-09-09	Webcam	Acessórios	Norte	AM	Ana	6	220	1320
+2026-01-24	Headset	Acessórios	Centro-Oeste	GO	Carlos	8	250	2000
+2026-05-15	Notebook	Informática	Centro-Oeste	MT	Bruno	3	3500	10500
+2025-10-10	Cadeira Gamer	Móveis	Nordeste	PE	Eduardo	5	1200	6000
+2025-09-05	Notebook	Informática	Norte	PA	Fernanda	2	3500	7000
+2026-05-03	Webcam	Acessórios	Centro-Oeste	DF	Fernanda	4	220	880
+2025-10-29	SSD	Informática	Centro-Oeste	GO	Bruno	2	400	800
+2026-04-30	Webcam	Acessórios	Sudeste	RJ	Eduardo	6	220	1320
+2025-12-27	Cadeira Gamer	Móveis	Centro-Oeste	DF	Fernanda	6	1200	7200
+2025-08-25	SSD	Informática	Nordeste	PE	Ana	5	400	2000
+2025-07-16	Monitor	Informática	Nordeste	BA	Bruno	3	900	2700
+2025-04-13	SSD	Informática	Nordeste	CE	Bruno	5	400	2000
+2025-11-06	Headset	Acessórios	Sudeste	RJ	Ana	3	250	750
+2025-10-27	Teclado	Informática	Nordeste	BA	Fernanda	1	150	150
+2025-10-19	Teclado	Informática	Centro-Oeste	GO	Daniela	1	150	150
+2025-02-22	SSD	Informática	Centro-Oeste	MT	Carlos	3	400	1200
+2026-05-19	SSD	Informática	Sul	SC	Ana	7	400	2800
+2025-03-29	Notebook	Informática	Sudeste	SP	Bruno	5	3500	17500
+2026-06-20	Mouse	Informática	Norte	AM	Daniela	4	80	320
+2025-11-09	SSD	Informática	Centro-Oeste	MT	Eduardo	7	400	2800
+2025-08-01	Notebook	Informática	Norte	RO	Fernanda	2	3500	7000
+2025-06-10	Monitor	Informática	Nordeste	CE	Bruno	2	900	1800
+2025-01-03	Teclado	Informática	Norte	PA	Daniela	3	150	450
+2025-02-03	SSD	Informática	Norte	AM	Bruno	5	400	2000
+2025-03-14	Headset	Acessórios	Nordeste	CE	Fernanda	8	250	2000
+2026-03-12	Monitor	Informática	Nordeste	CE	Ana	4	900	3600
+2025-03-15	Monitor	Informática	Sudeste	RJ	Ana	3	900	2700
+2026-03-26	Teclado	Informática	Nordeste	CE	Ana	5	150	750
+2025-10-06	SSD	Informática	Nordeste	CE	Eduardo	7	400	2800
+2026-03-19	SSD	Informática	Centro-Oeste	GO	Fernanda	1	400	400
+2025-04-04	Cadeira Gamer	Móveis	Norte	AM	Bruno	1	1200	1200
+2025-06-29	Notebook	Informática	Nordeste	CE	Daniela	1	3500	3500
+2026-05-19	SSD	Informática	Nordeste	BA	Ana	7	400	2800
+2025-11-25	SSD	Informática	Nordeste	PE	Fernanda	6	400	2400
+2026-05-23	Mouse	Informática	Sudeste	RJ	Carlos	7	80	560
+2025-04-01	Webcam	Acessórios	Norte	PA	Carlos	8	220	1760
+2026-06-11	Headset	Acessórios	Nordeste	BA	Ana	7	250	1750
+2026-06-15	SSD	Informática	Centro-Oeste	GO	Carlos	4	400	1600
+2025-10-01	SSD	Informática	Centro-Oeste	GO	Eduardo	4	400	1600
+2025-05-05	Teclado	Informática	Nordeste	PE	Ana	8	150	1200
+2026-02-22	Monitor	Informática	Sudeste	RJ	Ana	1	900	900
+2025-06-07	Monitor	Informática	Sul	PR	Daniela	2	900	1800
+2026-03-02	Headset	Acessórios	Norte	RO	Daniela	5	250	1250
+2026-01-28	SSD	Informática	Sudeste	RJ	Bruno	3	400	1200
+2025-12-15	Teclado	Informática	Sul	PR	Eduardo	7	150	1050
+2026-05-17	Headset	Acessórios	Sul	PR	Bruno	5	250	1250
+2025-12-07	SSD	Informática	Norte	AM	Eduardo	6	400	2400
+2025-09-02	Webcam	Acessórios	Centro-Oeste	MT	Eduardo	4	220	880
+2025-11-22	Webcam	Acessórios	Sudeste	RJ	Fernanda	1	220	220
+2026-05-23	SSD	Informática	Centro-Oeste	MT	Ana	3	400	1200
+2025-04-13	Teclado	Informática	Norte	RO	Daniela	6	150	900
+2025-05-28	Mouse	Informática	Norte	AM	Daniela	1	80	80
+2025-12-13	Teclado	Informática	Sul	PR	Eduardo	5	150	750
+2025-11-21	Webcam	Acessórios	Sul	PR	Fernanda	7	220	1540
+2025-08-29	SSD	Informática	Norte	PA	Fernanda	2	400	800
+2026-03-21	Headset	Acessórios	Sudeste	MG	Ana	2	250	500
+2025-01-30	Mouse	Informática	Centro-Oeste	GO	Ana	5	80	400
+2026-01-19	Cadeira Gamer	Móveis	Sul	PR	Daniela	6	1200	7200
+2025-07-04	Teclado	Informática	Sudeste	MG	Bruno	7	150	1050
+2025-09-04	Teclado	Informática	Sul	RS	Daniela	7	150	1050
+2026-04-16	Teclado	Informática	Sudeste	RJ	Carlos	5	150	750
+2025-03-17	Notebook	Informática	Centro-Oeste	MT	Daniela	3	3500	10500
+2025-09-14	Cadeira Gamer	Móveis	Norte	AM	Daniela	7	1200	8400
+2025-04-20	Headset	Acessórios	Sudeste	RJ	Bruno	8	250	2000
+2025-10-30	Webcam	Acessórios	Norte	AM	Ana	5	220	1100
+2026-05-24	Webcam	Acessórios	Nordeste	BA	Carlos	1	220	220
+2025-07-14	Monitor	Informática	Norte	AM	Eduardo	4	900	3600
+2025-02-10	Headset	Acessórios	Sudeste	MG	Carlos	2	250	500
+2025-05-15	SSD	Informática	Sul	RS	Ana	6	400	2400
+2025-06-29	Headset	Acessórios	Nordeste	CE	Bruno	7	250	1750
+2025-06-18	Teclado	Informática	Norte	AM	Carlos	5	150	750
+2025-04-28	SSD	Informática	Nordeste	CE	Daniela	6	400	2400
+2026-01-10	Mouse	Informática	Sudeste	SP	Ana	7	80	560
+2026-04-11	Webcam	Acessórios	Sul	PR	Carlos	2	220	440
+2025-04-21	Headset	Acessórios	Norte	AM	Fernanda	6	250	1500
+2025-08-15	Monitor	Informática	Centro-Oeste	GO	Fernanda	6	900	5400
+2026-02-23	Mouse	Informática	Centro-Oeste	DF	Ana	5	80	400
+2026-05-20	Teclado	Informática	Sul	SC	Ana	5	150	750
+2026-02-02	Mouse	Informática	Sudeste	MG	Daniela	3	80	240
+2026-03-01	Cadeira Gamer	Móveis	Norte	AM	Fernanda	3	1200	3600
+2025-10-14	Mouse	Informática	Centro-Oeste	DF	Ana	7	80	560
+2025-08-30	Cadeira Gamer	Móveis	Sudeste	RJ	Carlos	8	1200	9600
+2025-03-04	Mouse	Informática	Nordeste	CE	Daniela	6	80	480
+2025-04-04	Headset	Acessórios	Sudeste	SP	Fernanda	8	250	2000
+2025-12-08	Monitor	Informática	Norte	PA	Bruno	1	900	900
+2025-08-01	Teclado	Informática	Norte	PA	Eduardo	2	150	300
+2025-01-03	Monitor	Informática	Sudeste	RJ	Carlos	3	900	2700
+2025-06-28	Teclado	Informática	Sudeste	MG	Ana	5	150	750
+2025-09-01	Notebook	Informática	Sudeste	SP	Eduardo	6	3500	21000
+2025-02-23	Cadeira Gamer	Móveis	Sul	SC	Bruno	5	1200	6000
+2026-05-03	Webcam	Acessórios	Norte	PA	Daniela	2	220	440
+2026-04-08	Cadeira Gamer	Móveis	Norte	RO	Eduardo	2	1200	2400
+2026-04-15	Monitor	Informática	Norte	PA	Fernanda	5	900	4500
+2026-03-13	Notebook	Informática	Sul	PR	Fernanda	7	3500	24500
+2025-03-17	Mouse	Informática	Centro-Oeste	DF	Ana	8	80	640
+2025-05-10	Cadeira Gamer	Móveis	Norte	PA	Carlos	2	1200	2400
+2026-04-10	Cadeira Gamer	Móveis	Centro-Oeste	DF	Eduardo	5	1200	6000
+2025-08-09	Webcam	Acessórios	Sul	RS	Daniela	2	220	440
+2026-04-10	SSD	Informática	Sudeste	RJ	Daniela	6	400	2400
+2025-11-17	Webcam	Acessórios	Sul	PR	Fernanda	7	220	1540
+2025-03-10	Headset	Acessórios	Nordeste	BA	Ana	8	250	2000
+2026-01-17	Mouse	Informática	Sul	PR	Bruno	2	80	160
+2025-05-06	Notebook	Informática	Norte	RO	Daniela	6	3500	21000
+2025-10-22	Cadeira Gamer	Móveis	Centro-Oeste	DF	Eduardo	1	1200	1200
+2025-06-08	Headset	Acessórios	Nordeste	BA	Fernanda	4	250	1000
+2026-01-12	SSD	Informática	Sudeste	SP	Ana	6	400	2400
+2025-01-27	Headset	Acessórios	Norte	PA	Eduardo	7	250	1750
+2025-11-13	Headset	Acessórios	Sul	SC	Carlos	5	250	1250
+2026-02-15	Cadeira Gamer	Móveis	Sul	SC	Ana	3	1200	3600
+2026-01-21	Teclado	Informática	Sul	SC	Daniela	4	150	600
+2025-11-16	SSD	Informática	Nordeste	BA	Fernanda	6	400	2400
+2025-02-23	Cadeira Gamer	Móveis	Norte	RO	Bruno	2	1200	2400
+2025-10-06	Teclado	Informática	Norte	PA	Daniela	2	150	300
+2026-03-01	Webcam	Acessórios	Centro-Oeste	DF	Carlos	8	220	1760
+2026-03-17	Monitor	Informática	Norte	PA	Ana	6	900	5400
+2025-02-16	Headset	Acessórios	Norte	AM	Bruno	5	250	1250
+2025-07-29	Webcam	Acessórios	Norte	PA	Carlos	1	220	220
+2025-12-02	Monitor	Informática	Sudeste	RJ	Ana	5	900	4500
+2025-06-29	Notebook	Informática	Centro-Oeste	DF	Bruno	7	3500	24500
+2026-05-28	Webcam	Acessórios	Norte	RO	Eduardo	4	220	880
+2026-03-23	Cadeira Gamer	Móveis	Sul	PR	Ana	1	1200	1200
+2026-02-19	SSD	Informática	Sul	PR	Fernanda	7	400	2800
+2025-01-22	Webcam	Acessórios	Nordeste	BA	Carlos	7	220	1540
+2025-04-01	Teclado	Informática	Norte	AM	Daniela	6	150	900
+2026-06-21	Mouse	Informática	Sudeste	RJ	Ana	7	80	560
+2025-08-15	Webcam	Acessórios	Nordeste	CE	Carlos	6	220	1320
+2026-06-07	Teclado	Informática	Sul	RS	Bruno	2	150	300
+2025-08-30	Cadeira Gamer	Móveis	Nordeste	CE	Ana	3	1200	3600
+2025-06-06	Teclado	Informática	Nordeste	BA	Fernanda	3	150	450
+2026-04-21	Mouse	Informática	Sudeste	MG	Eduardo	8	80	640
+2025-11-20	SSD	Informática	Norte	RO	Bruno	6	400	2400
+2025-11-07	SSD	Informática	Sul	PR	Carlos	8	400	3200
+2025-11-14	Notebook	Informática	Nordeste	CE	Daniela	2	3500	7000
+2025-10-21	SSD	Informática	Sul	SC	Ana	6	400	2400
+2026-04-19	Mouse	Informática	Norte	RO	Eduardo	7	80	560
+2025-11-26	Notebook	Informática	Centro-Oeste	DF	Eduardo	4	3500	14000
+2026-04-07	SSD	Informática	Norte	PA	Ana	1	400	400
+2025-02-10	Cadeira Gamer	Móveis	Sul	RS	Bruno	3	1200	3600
+2026-01-08	SSD	Informática	Centro-Oeste	DF	Carlos	3	400	1200
+2025-02-23	Headset	Acessórios	Centro-Oeste	MT	Fernanda	6	250	1500
+2026-01-31	Cadeira Gamer	Móveis	Sul	PR	Carlos	2	1200	2400
+2025-03-25	Headset	Acessórios	Norte	PA	Eduardo	6	250	1500
+2025-05-13	Teclado	Informática	Nordeste	PE	Eduardo	7	150	1050
+2025-12-03	Mouse	Informática	Nordeste	CE	Bruno	7	80	560
+2025-01-19	Mouse	Informática	Centro-Oeste	DF	Carlos	6	80	480
+2026-05-13	Headset	Acessórios	Sudeste	SP	Bruno	6	250	1500
+2025-10-30	Monitor	Informática	Sudeste	SP	Ana	2	900	1800
+2026-01-21	Notebook	Informática	Nordeste	CE	Bruno	3	3500	10500
+2026-03-25	Teclado	Informática	Sudeste	MG	Ana	3	150	450
+2026-03-31	Webcam	Acessórios	Nordeste	CE	Eduardo	4	220	880
+2025-11-13	Headset	Acessórios	Centro-Oeste	GO	Daniela	4	250	1000
+2026-04-18	Monitor	Informática	Nordeste	CE	Carlos	8	900	7200
+2025-06-15	Webcam	Acessórios	Norte	RO	Bruno	7	220	1540
+2026-01-16	Teclado	Informática	Nordeste	BA	Eduardo	8	150	1200
+2025-03-27	Mouse	Informática	Norte	PA	Bruno	5	80	400
+2026-03-24	Headset	Acessórios	Centro-Oeste	DF	Ana	3	250	750
+2026-03-01	Monitor	Informática	Centro-Oeste	MT	Ana	1	900	900
+2026-01-31	Webcam	Acessórios	Norte	AM	Ana	4	220	880
+2025-04-12	Cadeira Gamer	Móveis	Sudeste	SP	Fernanda	6	1200	7200
+2025-10-21	Cadeira Gamer	Móveis	Sudeste	SP	Daniela	1	1200	1200
+2025-03-23	Teclado	Informática	Centro-Oeste	MT	Ana	1	150	150
+2025-04-24	Headset	Acessórios	Sudeste	SP	Carlos	7	250	1750
+2025-09-02	Monitor	Informática	Nordeste	BA	Daniela	1	900	900
+2025-01-17	SSD	Informática	Sul	SC	Fernanda	8	400	3200
+2025-01-02	Monitor	Informática	Sudeste	RJ	Eduardo	7	900	6300
+2025-07-11	Cadeira Gamer	Móveis	Sudeste	MG	Fernanda	7	1200	8400
+2026-06-23	Mouse	Informática	Norte	AM	Eduardo	2	80	160
+2026-02-01	Notebook	Informática	Centro-Oeste	MT	Carlos	1	3500	3500
+2025-12-20	Headset	Acessórios	Sul	PR	Bruno	2	250	500
+2025-05-17	Mouse	Informática	Norte	RO	Ana	6	80	480
+2026-04-21	Cadeira Gamer	Móveis	Norte	AM	Fernanda	3	1200	3600
+2026-04-14	SSD	Informática	Sudeste	SP	Ana	2	400	800
+2025-02-12	Headset	Acessórios	Sudeste	SP	Carlos	4	250	1000
+2025-09-17	Headset	Acessórios	Norte	AM	Ana	8	250	2000
+2025-12-06	Monitor	Informática	Nordeste	PE	Carlos	1	900	900
+2026-03-27	Mouse	Informática	Nordeste	PE	Daniela	7	80	560
+2026-01-12	Cadeira Gamer	Móveis	Sudeste	RJ	Eduardo	8	1200	9600
+2025-03-22	Headset	Acessórios	Sul	RS	Daniela	7	250	1750
+2025-04-16	Teclado	Informática	Norte	AM	Ana	6	150	900
+2026-03-13	Cadeira Gamer	Móveis	Nordeste	PE	Bruno	8	1200	9600
+2025-12-28	SSD	Informática	Nordeste	PE	Eduardo	1	400	400
+2025-03-18	Webcam	Acessórios	Nordeste	CE	Fernanda	1	220	220
+2025-02-01	Webcam	Acessórios	Nordeste	CE	Bruno	3	220	660
+2025-08-30	SSD	Informática	Sul	SC	Fernanda	2	400	800
+2025-06-07	Cadeira Gamer	Móveis	Nordeste	PE	Fernanda	1	1200	1200
+2025-03-20	SSD	Informática	Nordeste	PE	Eduardo	8	400	3200
+2025-11-18	Teclado	Informática	Norte	AM	Fernanda	7	150	1050
+2025-07-10	Headset	Acessórios	Sudeste	SP	Daniela	1	250	250
+2025-09-24	Webcam	Acessórios	Norte	PA	Fernanda	5	220	1100
+2026-05-18	SSD	Informática	Sudeste	MG	Bruno	5	400	2000
+2025-06-26	Mouse	Informática	Sudeste	SP	Fernanda	8	80	640
+2025-12-22	SSD	Informática	Sul	RS	Fernanda	6	400	2400
+2025-11-04	Mouse	Informática	Norte	RO	Bruno	5	80	400
+2025-05-05	Teclado	Informática	Nordeste	CE	Bruno	4	150	600
+2026-01-05	Teclado	Informática	Sudeste	RJ	Eduardo	1	150	150
+2025-03-30	Cadeira Gamer	Móveis	Centro-Oeste	DF	Ana	3	1200	3600
+2026-06-23	Headset	Acessórios	Centro-Oeste	DF	Daniela	8	250	2000
+2025-11-21	Webcam	Acessórios	Norte	PA	Fernanda	3	220	660
+2025-05-12	Mouse	Informática	Centro-Oeste	MT	Eduardo	6	80	480
+2025-05-08	Teclado	Informática	Sudeste	RJ	Eduardo	1	150	150
+2025-11-27	Teclado	Informática	Nordeste	BA	Fernanda	3	150	450
+2025-03-22	Monitor	Informática	Nordeste	CE	Carlos	5	900	4500
+2025-11-07	Monitor	Informática	Norte	AM	Eduardo	3	900	2700
+2025-06-07	Mouse	Informática	Norte	RO	Bruno	3	80	240
+2025-03-25	Cadeira Gamer	Móveis	Norte	PA	Ana	1	1200	1200
+2025-02-01	Headset	Acessórios	Sudeste	MG	Daniela	7	250	1750
+2026-02-20	Headset	Acessórios	Nordeste	PE	Carlos	4	250	1000
+2025-06-11	SSD	Informática	Sul	RS	Daniela	1	400	400
+2025-12-15	Webcam	Acessórios	Centro-Oeste	MT	Eduardo	4	220	880
+2025-12-20	Teclado	Informática	Nordeste	CE	Daniela	6	150	900
+2025-11-23	Teclado	Informática	Nordeste	CE	Bruno	2	150	300
+2025-09-11	SSD	Informática	Sul	PR	Bruno	8	400	3200
+2026-03-05	Mouse	Informática	Sul	PR	Bruno	7	80	560
+2025-07-14	Teclado	Informática	Nordeste	CE	Bruno	6	150	900
+2025-11-12	SSD	Informática	Norte	AM	Daniela	8	400	3200
+2025-09-04	Notebook	Informática	Sul	PR	Bruno	8	3500	28000
+2026-05-22	Cadeira Gamer	Móveis	Sul	SC	Eduardo	5	1200	6000
+2025-04-21	SSD	Informática	Nordeste	CE	Daniela	1	400	400
+2026-02-17	Teclado	Informática	Nordeste	CE	Carlos	6	150	900
+2026-01-07	Notebook	Informática	Centro-Oeste	GO	Eduardo	4	3500	14000
+2025-10-14	Headset	Acessórios	Sul	PR	Eduardo	8	250	2000
+2026-01-18	Mouse	Informática	Sudeste	SP	Carlos	7	80	560
+2026-05-28	Cadeira Gamer	Móveis	Sudeste	SP	Ana	7	1200	8400
+2026-05-01	Notebook	Informática	Sul	SC	Eduardo	6	3500	21000
+2025-12-02	SSD	Informática	Sudeste	MG	Eduardo	3	400	1200
+2025-12-11	Cadeira Gamer	Móveis	Sudeste	RJ	Eduardo	5	1200	6000
+2025-01-18	SSD	Informática	Norte	AM	Carlos	8	400	3200
+2025-01-28	Cadeira Gamer	Móveis	Sul	PR	Eduardo	5	1200	6000
+2025-02-22	SSD	Informática	Nordeste	CE	Eduardo	4	400	1600
+2025-06-01	SSD	Informática	Sudeste	MG	Fernanda	7	400	2800
+2025-07-15	Monitor	Informática	Sul	RS	Ana	2	900	1800
+2026-02-27	SSD	Informática	Nordeste	PE	Fernanda	3	400	1200
+2025-03-05	Monitor	Informática	Centro-Oeste	DF	Fernanda	8	900	7200
+2026-05-05	Teclado	Informática	Norte	PA	Eduardo	6	150	900
+2025-12-17	Webcam	Acessórios	Nordeste	BA	Eduardo	8	220	1760
+2025-07-16	Cadeira Gamer	Móveis	Nordeste	CE	Bruno	8	1200	9600
+2025-11-01	Headset	Acessórios	Norte	AM	Carlos	4	250	1000
+2025-12-24	Monitor	Informática	Centro-Oeste	MT	Eduardo	8	900	7200
+2026-02-09	Headset	Acessórios	Nordeste	BA	Carlos	7	250	1750
+2025-03-22	Teclado	Informática	Nordeste	BA	Carlos	5	150	750
+2025-08-08	SSD	Informática	Nordeste	CE	Bruno	8	400	3200
+2025-05-21	Headset	Acessórios	Norte	RO	Ana	5	250	1250
+2025-08-27	Monitor	Informática	Sudeste	SP	Ana	4	900	3600
+2025-04-13	Mouse	Informática	Centro-Oeste	MT	Fernanda	8	80	640
+2026-02-21	Teclado	Informática	Sul	RS	Fernanda	3	150	450
+2025-10-22	SSD	Informática	Centro-Oeste	DF	Carlos	4	400	1600
+2025-02-08	Headset	Acessórios	Sul	SC	Bruno	4	250	1000
+2026-05-23	Webcam	Acessórios	Sudeste	SP	Bruno	7	220	1540
+2025-04-20	Headset	Acessórios	Sul	SC	Carlos	5	250	1250
+2025-05-18	Headset	Acessórios	Centro-Oeste	DF	Eduardo	8	250	2000
+2025-12-05	SSD	Informática	Nordeste	BA	Bruno	2	400	800
+2025-01-15	SSD	Informática	Nordeste	CE	Fernanda	3	400	1200
+2025-06-29	Cadeira Gamer	Móveis	Nordeste	CE	Eduardo	4	1200	4800
+2025-03-30	Webcam	Acessórios	Centro-Oeste	DF	Daniela	6	220	1320
+2025-11-28	Mouse	Informática	Sudeste	SP	Bruno	8	80	640
+2026-04-03	Notebook	Informática	Nordeste	PE	Carlos	4	3500	14000
+2025-09-25	Cadeira Gamer	Móveis	Nordeste	CE	Fernanda	1	1200	1200
+2026-04-22	Cadeira Gamer	Móveis	Sudeste	SP	Carlos	2	1200	2400
+2025-05-01	Teclado	Informática	Centro-Oeste	DF	Fernanda	5	150	750
+2025-08-13	Headset	Acessórios	Nordeste	CE	Bruno	4	250	1000
+2026-03-02	SSD	Informática	Sudeste	RJ	Fernanda	6	400	2400
+2025-09-11	SSD	Informática	Norte	RO	Fernanda	4	400	1600
+2025-03-21	Mouse	Informática	Norte	AM	Eduardo	6	80	480
+2025-06-03	Mouse	Informática	Sul	RS	Bruno	4	80	320
+2025-07-30	Cadeira Gamer	Móveis	Norte	AM	Fernanda	2	1200	2400
+2025-02-26	SSD	Informática	Sul	RS	Daniela	8	400	3200
+2025-03-01	Teclado	Informática	Norte	AM	Eduardo	8	150	1200
+2026-02-10	SSD	Informática	Nordeste	CE	Carlos	1	400	400
+2025-02-16	Notebook	Informática	Sudeste	MG	Daniela	2	3500	7000
+2025-03-12	Cadeira Gamer	Móveis	Sul	RS	Daniela	1	1200	1200
+2025-05-19	Notebook	Informática	Nordeste	PE	Fernanda	3	3500	10500
+2026-01-22	Webcam	Acessórios	Nordeste	PE	Daniela	8	220	1760
+2025-05-02	Mouse	Informática	Norte	PA	Bruno	6	80	480
+2025-01-04	Webcam	Acessórios	Norte	PA	Ana	4	220	880
+2026-01-24	Headset	Acessórios	Centro-Oeste	DF	Bruno	7	250	1750
+2025-10-10	Monitor	Informática	Centro-Oeste	MT	Bruno	3	900	2700
+2025-01-17	Mouse	Informática	Sul	RS	Bruno	7	80	560
+2026-04-03	Monitor	Informática	Sul	SC	Eduardo	1	900	900
+2026-02-16	Notebook	Informática	Sudeste	MG	Daniela	1	3500	3500
+2025-05-24	Monitor	Informática	Norte	PA	Eduardo	1	900	900
+2025-11-25	Headset	Acessórios	Sudeste	MG	Bruno	6	250	1500
+2026-02-28	Headset	Acessórios	Sudeste	MG	Carlos	4	250	1000
+2026-03-14	Headset	Acessórios	Sul	RS	Eduardo	3	250	750
+2026-06-22	SSD	Informática	Sul	PR	Carlos	7	400	2800
+2026-01-21	Webcam	Acessórios	Centro-Oeste	GO	Bruno	5	220	1100
+2025-05-28	SSD	Informática	Sudeste	SP	Daniela	5	400	2000
+2025-05-18	Notebook	Informática	Norte	AM	Daniela	7	3500	24500
+2025-03-22	Monitor	Informática	Nordeste	BA	Daniela	6	900	5400
+2025-02-22	Cadeira Gamer	Móveis	Sul	RS	Carlos	4	1200	4800
+2025-03-16	Webcam	Acessórios	Norte	RO	Bruno	1	220	220
+2025-11-07	Monitor	Informática	Centro-Oeste	GO	Ana	6	900	5400
+2026-05-06	Monitor	Informática	Sudeste	MG	Bruno	2	900	1800
+2025-10-17	Monitor	Informática	Centro-Oeste	GO	Daniela	6	900	5400
+2025-11-12	SSD	Informática	Norte	RO	Carlos	6	400	2400
+2025-04-11	Cadeira Gamer	Móveis	Norte	AM	Fernanda	8	1200	9600
+2025-11-17	SSD	Informática	Nordeste	BA	Daniela	6	400	2400
+2025-01-17	Notebook	Informática	Norte	PA	Carlos	3	3500	10500
+2025-12-04	Webcam	Acessórios	Nordeste	BA	Bruno	4	220	880
+2025-12-12	Webcam	Acessórios	Norte	PA	Carlos	8	220	1760
+2025-12-27	SSD	Informática	Centro-Oeste	MT	Bruno	3	400	1200
+2025-03-02	Teclado	Informática	Norte	AM	Eduardo	3	150	450
+2025-01-07	Notebook	Informática	Sul	RS	Daniela	1	3500	3500
+2025-01-10	Teclado	Informática	Sudeste	SP	Bruno	3	150	450
+2026-05-15	SSD	Informática	Nordeste	BA	Ana	8	400	3200
+2025-01-13	Notebook	Informática	Norte	RO	Ana	7	3500	24500
+2026-05-30	Headset	Acessórios	Norte	AM	Fernanda	1	250	250
+2026-06-21	Webcam	Acessórios	Sudeste	SP	Bruno	2	220	440
+2025-12-29	Monitor	Informática	Sudeste	MG	Carlos	5	900	4500
+2026-04-16	Webcam	Acessórios	Sul	PR	Eduardo	7	220	1540
+2025-02-02	Monitor	Informática	Sudeste	RJ	Ana	2	900	1800
+2025-02-27	Webcam	Acessórios	Centro-Oeste	MT	Fernanda	8	220	1760
+2026-03-21	Notebook	Informática	Sudeste	SP	Fernanda	8	3500	28000
+2025-08-24	Cadeira Gamer	Móveis	Norte	PA	Bruno	1	1200	1200
+2025-10-15	SSD	Informática	Nordeste	BA	Eduardo	2	400	800
+2025-08-01	Notebook	Informática	Sudeste	RJ	Eduardo	1	3500	3500
+2025-06-16	Teclado	Informática	Centro-Oeste	GO	Eduardo	5	150	750
+2026-01-29	Monitor	Informática	Norte	AM	Fernanda	6	900	5400
+2025-02-24	Teclado	Informática	Sul	RS	Ana	6	150	900
+2026-02-11	Webcam	Acessórios	Sudeste	SP	Carlos	6	220	1320
+2025-08-22	Notebook	Informática	Nordeste	PE	Carlos	8	3500	28000
+2025-03-29	Webcam	Acessórios	Centro-Oeste	GO	Eduardo	7	220	1540
+2025-03-26	Headset	Acessórios	Sudeste	MG	Carlos	2	250	500
+2026-02-03	Teclado	Informática	Centro-Oeste	DF	Carlos	3	150	450
+2025-11-12	Cadeira Gamer	Móveis	Sul	SC	Daniela	1	1200	1200
+2025-03-31	Cadeira Gamer	Móveis	Nordeste	BA	Bruno	3	1200	3600
+2025-04-16	Webcam	Acessórios	Centro-Oeste	DF	Ana	7	220	1540
+2025-11-29	Mouse	Informática	Nordeste	CE	Daniela	2	80	160
+2025-03-28	Notebook	Informática	Nordeste	PE	Fernanda	7	3500	24500
+2026-01-25	Monitor	Informática	Norte	RO	Bruno	3	900	2700
+2026-05-20	Teclado	Informática	Nordeste	PE	Bruno	5	150	750
+2026-03-08	Mouse	Informática	Sudeste	RJ	Carlos	5	80	400
+2025-09-10	SSD	Informática	Sul	PR	Fernanda	5	400	2000
+2026-04-14	SSD	Informática	Norte	RO	Ana	4	400	1600
+2025-12-07	Teclado	Informática	Nordeste	BA	Eduardo	7	150	1050
+2026-03-17	Webcam	Acessórios	Nordeste	PE	Fernanda	6	220	1320
+2026-05-06	Teclado	Informática	Nordeste	PE	Carlos	4	150	600
+2026-05-18	Teclado	Informática	Centro-Oeste	MT	Eduardo	5	150	750
+2026-02-07	Monitor	Informática	Nordeste	PE	Carlos	5	900	4500
+2025-01-28	Mouse	Informática	Norte	PA	Fernanda	3	80	240
+2025-03-12	SSD	Informática	Sudeste	RJ	Daniela	5	400	2000
+2025-09-05	SSD	Informática	Sudeste	MG	Carlos	5	400	2000
+2026-04-05	Teclado	Informática	Centro-Oeste	MT	Eduardo	2	150	300
+2025-02-07	SSD	Informática	Norte	AM	Carlos	7	400	2800
+2025-06-20	Mouse	Informática	Sul	SC	Fernanda	6	80	480
+2025-12-06	Notebook	Informática	Norte	RO	Daniela	7	3500	24500
+2025-08-16	Mouse	Informática	Sul	SC	Eduardo	5	80	400
+2026-04-20	Monitor	Informática	Centro-Oeste	MT	Fernanda	7	900	6300
+2025-04-18	Teclado	Informática	Nordeste	BA	Carlos	8	150	1200
+2025-12-23	Webcam	Acessórios	Sul	SC	Carlos	3	220	660
+2025-12-23	Cadeira Gamer	Móveis	Centro-Oeste	GO	Daniela	8	1200	9600
+2025-11-23	Mouse	Informática	Centro-Oeste	DF	Ana	8	80	640
+2025-01-24	Headset	Acessórios	Sul	RS	Carlos	2	250	500
+2026-06-13	Mouse	Informática	Sudeste	MG	Bruno	4	80	320
+2026-04-19	Teclado	Informática	Nordeste	CE	Bruno	7	150	1050
+2026-02-10	Webcam	Acessórios	Sudeste	SP	Ana	7	220	1540
+2026-02-03	Monitor	Informática	Centro-Oeste	DF	Ana	7	900	6300
+2025-04-15	Monitor	Informática	Sudeste	RJ	Eduardo	2	900	1800
+2026-04-14	Teclado	Informática	Nordeste	PE	Ana	4	150	600
+2026-02-02	Headset	Acessórios	Centro-Oeste	DF	Eduardo	6	250	1500
+2025-12-27	Webcam	Acessórios	Norte	PA	Daniela	6	220	1320
+2025-05-18	Teclado	Informática	Nordeste	CE	Carlos	2	150	300
+2025-07-07	Mouse	Informática	Sudeste	RJ	Carlos	2	80	160
+2025-05-22	Teclado	Informática	Norte	AM	Eduardo	7	150	1050
+2025-06-27	Webcam	Acessórios	Centro-Oeste	GO	Eduardo	8	220	1760
+2025-07-11	Teclado	Informática	Centro-Oeste	MT	Carlos	3	150	450
+2025-01-10	SSD	Informática	Norte	PA	Daniela	6	400	2400
+2026-02-23	Teclado	Informática	Sudeste	RJ	Fernanda	8	150	1200
+2026-05-16	SSD	Informática	Centro-Oeste	DF	Bruno	8	400	3200
+2025-10-27	Mouse	Informática	Norte	PA	Ana	4	80	320
+2025-06-22	Headset	Acessórios	Sudeste	MG	Daniela	5	250	1250
+2025-04-27	SSD	Informática	Norte	RO	Carlos	2	400	800
+2025-08-12	Cadeira Gamer	Móveis	Norte	PA	Daniela	8	1200	9600
+2026-04-06	Mouse	Informática	Sudeste	RJ	Carlos	1	80	80
+2025-08-31	Cadeira Gamer	Móveis	Sul	PR	Bruno	2	1200	2400
+2025-06-19	Cadeira Gamer	Móveis	Norte	RO	Eduardo	7	1200	8400
+2025-12-26	Teclado	Informática	Sudeste	SP	Eduardo	1	150	150
+2025-11-28	Headset	Acessórios	Norte	RO	Fernanda	3	250	750
+2026-06-11	Headset	Acessórios	Nordeste	CE	Fernanda	5	250	1250
+2025-10-11	Mouse	Informática	Sudeste	RJ	Fernanda	1	80	80
+2025-11-26	Teclado	Informática	Sudeste	SP	Bruno	3	150	450
+2026-03-01	Webcam	Acessórios	Centro-Oeste	GO	Daniela	5	220	1100
+2026-02-17	SSD	Informática	Sul	RS	Eduardo	2	400	800
+2025-12-02	Headset	Acessórios	Nordeste	PE	Eduardo	8	250	2000
+2026-01-02	Notebook	Informática	Sul	RS	Ana	8	3500	28000
+2026-05-22	Webcam	Acessórios	Sudeste	RJ	Carlos	4	220	880
+2026-05-12	Cadeira Gamer	Móveis	Nordeste	PE	Carlos	3	1200	3600
+2025-01-17	Notebook	Informática	Sul	SC	Ana	8	3500	28000
+2026-03-15	Teclado	Informática	Centro-Oeste	MT	Bruno	1	150	150
+2025-04-06	Teclado	Informática	Nordeste	BA	Fernanda	5	150	750
+2025-06-19	Cadeira Gamer	Móveis	Nordeste	BA	Ana	6	1200	7200
