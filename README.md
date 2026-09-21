@@ -57,8 +57,12 @@ Utilizando a base completa de dados de vendas no SQLite, executamos consultas an
 | Mai/2026 | R$ 84.800,00 |
 | Jun/2026 | R$ 33.660,00 |
 
-## 🖥️ Dashboard Interativo (Power BI)
+## Dashboard Interativo (Power BI)
 
 Abaixo está a visualização do painel desenvolvido no Power BI Desktop para a tomada de decisão gerencial:
-dashboard.png.png
+
+![Dashboard de Vendas](<img width="1356" height="563" alt="dashboard png" src="https://github.com/user-attachments/assets/9d0c4e89-4435-41d6-9234-74c0a8b5f25c" />
+)
+
+
 
