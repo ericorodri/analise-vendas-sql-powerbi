@@ -60,7 +60,5 @@ Utilizando a base completa de dados de vendas no SQLite, executamos consultas an
 ## 🖥️ Dashboard Interativo (Power BI)
 
 Abaixo está a visualização do painel desenvolvido no Power BI Desktop para a tomada de decisão gerencial:
-
-![Dashboard de Vendas](dashboard.png)
-
+dashboard.png.png
 
